@@ -60,6 +60,11 @@ public class Movie {
 	public void setImage(String image) {
 		this.image = image;
 	}
+
+	public Integer getCount() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 	
