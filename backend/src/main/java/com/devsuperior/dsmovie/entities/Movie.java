@@ -83,10 +83,14 @@ public class Movie {
 	}
 
 	public Integer getCount() {
-		// TODO Auto-generated method stub
-		return null;
+		return count;
 	}
-	
+
+	public void setCount(Integer count) {
+		this.count = count;
+	}
+
+
 	
 
 
